@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex d17a4da..1ad17b9 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,6 +8,6 @@[m
+ </head>[m
+ <body>[m
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora facere sapiente cupiditate perspiciatis doloribus distinctio rem commodi neque dolore. Temporibus consequatur aliquam velit nostrum reprehenderit atque nobis sapiente labore nisi?</p>[m
+[31m-    <p>(button)</p>[m
+[32m+[m[32m    <p>this is feature branch (dropdown)</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
